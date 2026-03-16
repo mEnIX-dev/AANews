@@ -1,7 +1,14 @@
+@font-face{
+    src : url(fonts/FiraSans-BlackItalic.ttf);
+    font-family : firaItalic;
+}
+
+
 body {
-    background-color: black;
+    background-color: grey;
 }
 h1{
+    font-family : firaItalic, arial;
     border-style: solid;
     border-width: 3px;
     border-color: hsl(297, 88%, 48%);
@@ -15,4 +22,7 @@ p{
 }
 footer{
     color:yellow;
+}
+#auteur{
+    text-shadow: 4px 3px 4px black, -2px -2px 5px red;
 }
