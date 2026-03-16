@@ -38,3 +38,11 @@ footer{
 .comments{
     color : lightcoral, red;
 }
+
+#bouton{
+    font-size: 20px;
+    width = 200px;
+    height = 100px;
+    margin: auto
+}
+    
