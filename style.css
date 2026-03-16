@@ -3,14 +3,10 @@
     font-family : firaItalic;
 }
 body {
-    background-color: grey;
+    background-color: lightblue;
 }
 h1{
     font-family : firaItalic, arial;
-    border-style: solid;
-    border-width: 3px;
-    border-color: hsl(297, 88%, 48%);
-    border-radius: 20px;
     color: white;
 }
 p{
