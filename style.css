@@ -2,10 +2,6 @@
     src : url(fonts/FiraSans-BlackItalic.ttf);
     font-family : firaItalic;
 }
-
-.en-tete{
-  background-color: limegreen
-}
 body {
     background-color: grey;
 }
