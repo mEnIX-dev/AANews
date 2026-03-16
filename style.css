@@ -17,8 +17,6 @@ h1{
 }
 p{
     color: black;
-    border-bottom : 3px solid rgb(255,0,0);
-    border-top: 5px dotted rgb(0,20,200);
 }
 footer{
     color:yellow;
