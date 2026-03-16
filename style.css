@@ -2,6 +2,12 @@
     src : url(fonts/FiraSans-BlackItalic.ttf);
     font-family : firaItalic;
 }
+header{
+    color = "black";
+}
+main{
+    color = "black";
+}
 body {
     background-color: lightblue;
 }
