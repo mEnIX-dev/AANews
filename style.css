@@ -13,10 +13,10 @@ body {
 }
 h1{
     font-family : firaItalic, arial;
-    color: white;
+    color: black;
 }
 p{
-    color: white;
+    color: black;
     border-bottom : 3px solid rgb(255,0,0);
     border-top: 5px dotted rgb(0,20,200);
 }
